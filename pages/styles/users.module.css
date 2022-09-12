@@ -1,0 +1,13 @@
+.users__list {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 20px;
+   margin: 0;padding: 0;
+}
+
+.users__link {
+   font-size: 20px;
+   text-transform: none;
+   color: black;
+}
